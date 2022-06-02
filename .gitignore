@@ -2,6 +2,6 @@
 target/
 out/
 dist/
-node_module/
+node_modules/
 .parcel-cache/
 .iml
