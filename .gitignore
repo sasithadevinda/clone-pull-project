@@ -1,0 +1,7 @@
+.idea/
+target/
+out/
+dist/
+node_module/
+.parcel-cache/
+.iml
